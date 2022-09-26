@@ -1,0 +1,22 @@
+[
+	{
+		"id": "1",
+		"name": "Puzzles",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81PdoN1RRKL.png"
+	},
+	{
+		"id": "2",
+		"name": "kite",
+        "img": "https://img.freepik.com/premium-vector/colorful-kite-fly-sky-white-background-summer-spring-holiday-toy-child_284092-774.jpg?w=2000"
+	},
+	{
+		"id": "3",
+		"name": "Baloon",
+        "img": "https://s3.envato.com/files/0fd83d62-ca55-4660-9a13-dabad441ffe0/inline_image_preview.jpg"
+	},
+	{
+		"id": "4",
+		"name": "Train",
+        "img": "https://www.businessinsider.in/photo/77656534/best-toy-trains-for-kids.jpg?imgsize=191825"
+	}
+]

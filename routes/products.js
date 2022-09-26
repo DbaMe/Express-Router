@@ -1,11 +1,13 @@
 const express = require("express");
 
 let router = express.Router();
+const toys = require("../data/toys.json");
+
 
 router
 	.route("/toys")
 	.get((req, res) => {
-		res.send("This is GET request and url is /products/toys");
+		res.json(toys);
 	})
 	.post((req, res) => {
 		res.send("This POST request and  Url is /product/toys ...");
