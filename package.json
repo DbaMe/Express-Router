@@ -1,0 +1,23 @@
+{
+  "name": "express-router",
+  "version": "1.0.0",
+  "description": "### Add new route file called products.js #### Create new routes for toys (/products/toys) in order to make GET, POST, PUT and DELETE requests by sending text - This is GET/POST/PUT/DELETE request respectively. ##### Test your endpoints with POSTMAN. ### Create new repository in your GitHub and push your code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hammed-Waheed/Express-Router.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hammed-Waheed/Express-Router/issues"
+  },
+  "homepage": "https://github.com/Hammed-Waheed/Express-Router#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
